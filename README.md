@@ -2,7 +2,7 @@
 
 Git Automation Tool is a Python-based tool designed to simplify the management of Git and GitHub repositories automatically. This tool is highly beneficial for developers who frequently work with Git repositories, as it saves time on manual tasks such as GitHub CLI installation, authentication, repository creation, and commit/push management.
 
-![Git-Automation-Tool Jenderal92](https://github.com/user-attachments/assets/2a37499d-d4d3-4a0e-9cae-2b64e14c878e)
+![Git-Automation-Tool Jenderal92](https://github.com/user-attachments/assets/58fbd91e-a552-4231-9db1-b7d5798b34c4)
 
 
 ## Features
