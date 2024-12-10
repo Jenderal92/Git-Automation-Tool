@@ -91,10 +91,6 @@ def git_operations(repo_name, directory, token):
     subprocess.check_call(["git", "branch", "-M", "main"])
     subprocess.check_call(["git", "push", "-u", "origin", "main"])
     
-    tag_name = raw_input("\033[1;34m[INFO]\033[0m Enter the tag name to add: ")
-    print "\033[1;34m[INFO]\033[0m Creating tag: " + tag_name + "..."
-    subprocess.check_call(["git", "tag", tag_name])
-    subprocess.check_call(["git", "push", "origin", tag_name])
 
     print "\033[1;32m[INFO]\033[0m Git operations completed."
 
